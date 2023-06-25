@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/1336327/screenshots/6439028/drone.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Serkan BÜTÜN</h1>
 <h3 align="center">A passionate drone developer from Türkiye</h3>
