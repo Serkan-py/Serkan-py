@@ -18,7 +18,7 @@
 <a href="https://stackoverflow.com/users/18047197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18047197" height="30" width="40" /></a>
 <a href="https://instagram.com/serkan_btn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serkan_btn" height="30" width="40" /></a>
 <a href="https://medium.com/@srknbtn72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srknbtn72" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/serkanbutun4995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="serkanbutun4995" height="30" width="40" /></a>
+<a href="https://https://www.youtube.com/@serkanbutun4995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="serkanbutun4995" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
